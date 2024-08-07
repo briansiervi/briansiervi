@@ -18,6 +18,10 @@
   1. VagaRotativa: Repository (private) | [Published Page](http://vagarotativa.azurewebsites.net/) | Tecnologies: .Net 5
   1. GrupoOls: Repository (private) | [Published Page](https://grupools.azurewebsites.net/) | Tecnologies: .Net 5
   1. GorilaCdb: [Repository](https://github.com/briansiervi/gorila-cdb) | Published Page (offline) | Tecnologies: .Net 5, Docker
+- Flutter
+  1. Whatsapp web: [Repository](https://github.com/briansiervi/udemy-flutter) | [Published Page](https://whatsappweb-e3c47.web.app/) | Tecnologies: Flutter, Firebase
+  1. Facebook: [Repository](https://github.com/briansiervi/udemy_flutter2_facebook_interface) | Published Page(offline) | Tecnologies: Flutter
+  1. Loja virtual: [Repository](https://github.com/briansiervi/udemy_flutter2_web) | Published Page(offline) | Tecnologies: Flutter
 
 <!---
 briansiervi/briansiervi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
