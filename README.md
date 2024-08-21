@@ -1,7 +1,7 @@
 # Presentation
 
 - 👋 Hi, I’m @briansiervi.
-- 👀 I'm already full stack in C# but I'm looking to improve my JavaScript and TypeScript skills so that I can build websites purely in these languages, using React.js and Node.js.
+- 👀 I'm already full stack in C#, but I'm looking to improve my JavaScript skills to also create websites in that language, using React.js and Typescript.
 - 🌱 I am a technical leader during business hours and at the same time I am improving my knowledge in react at [RocketSeat](https://www.rocketseat.com.br/).
 - :mortar_board: I have a degree in computer science from the Federal University of Juiz de Fora (UFJF) and a postgraduate degree in business management from the University of São Paulo (USP).
 - :house_with_garden: I live in São Paulo (Brazil 🇧🇷).
