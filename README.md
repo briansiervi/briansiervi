@@ -13,9 +13,10 @@
 ## React
   - Studies
     - Challenges
-      1. TodoList: [Repository](https://github.com/briansiervi/nivel01-todo-list) | [Published Page](https://briansiervi.github.io/nivel01-todo-list/) | Tecnologies: - React.js, Typescript
+      1. Coffee Delivery: [Repository](https://github.com/briansiervi/nivel02-coffee-delivery) - Work in progress
+      2. TodoList: [Repository](https://github.com/briansiervi/nivel01-todo-list) | [Published Page](https://briansiervi.github.io/nivel01-todo-list/) | Tecnologies: - React.js, Typescript
     - General studies    
-      1. Timer: [Repository](https://github.com/briansiervi/nivel02-ignite-timer/issues/1) | Published Page (work in progress) | Tecnologies: React.js, TypeScript, Fastify, DrizzleORM, PostgreSQL, Docker, Zod, TailwindCSS, TanStack Query
+      1. Timer: [Repository](https://github.com/briansiervi/nivel02-ignite-timer/issues/1) | [Published Page]([work in progress](https://briansiervi.github.io/nivel02-ignite-timer/) | Tecnologies: React.js, TypeScript, Fastify, DrizzleORM, PostgreSQL, Docker, Zod, TailwindCSS, TanStack Query
       2. InOrbit: [Repository](https://github.com/briansiervi/nlw-pocket-javascript) | Tecnologies: React.js, Typescript, Drizzle (orm), Postgres, Docker
       1. IgniteFeed: [Repository](https://github.com/briansiervi/igniteFeed) | [Published Page](https://briansiervi.github.io/igniteFeed/) | Tecnologies: React.js, Typescript  
       1. Attendee List: [Repository](https://github.com/briansiervi/nlw-2024-unite-pass-in-web) | [Linkedin Post](https://www.linkedin.com/posts/activity-7181485576825556993-KAa9) | Tecnologies: React.js, Typescript
