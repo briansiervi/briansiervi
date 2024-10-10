@@ -13,7 +13,7 @@
 ## React
   - Studies
     - Challenges
-      1. Coffee Delivery: [Repository](https://github.com/briansiervi/nivel02-coffee-delivery) - Work in progress
+      1. Coffee Delivery: [Repository](https://github.com/briansiervi/nivel02-coffee-delivery) | [Published Page](https://briansiervi.github.io/nivel02-coffee-delivery/) -> Work in progress
       2. TodoList: [Repository](https://github.com/briansiervi/nivel01-todo-list) | [Published Page](https://briansiervi.github.io/nivel01-todo-list/) | Tecnologies: - React.js, Typescript
     - General studies    
       1. Timer: [Repository](https://github.com/briansiervi/nivel02-ignite-timer/issues/1) | [Published Page](https://briansiervi.github.io/nivel02-ignite-timer/) | Tecnologies: React.js, TypeScript, Fastify, DrizzleORM, PostgreSQL, Docker, Zod, TailwindCSS, TanStack Query
