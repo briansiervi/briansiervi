@@ -7,6 +7,12 @@
 - :house_with_garden: I live in São Paulo (Brazil 🇧🇷).
 - 📫 If you are curious to know me, you can find me on [Linkedin](https://www.linkedin.com/in/briansiervi/).
 
+<p align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briansiervi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
 # Projects
 :page_with_curl: Below are some projects that I developed during my studies or as a freelancer.
 
