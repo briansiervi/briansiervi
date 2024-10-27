@@ -7,7 +7,9 @@
 - :house_with_garden: I live in São Paulo (Brazil 🇧🇷).
 - 📫 If you are curious to know me, you can find me on [Linkedin](https://www.linkedin.com/in/briansiervi/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briansiervi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briansiervi&layout=compact&langs_count=10&card_width=320&theme=tokyonight&exclude_repo=rest-api-sections,Dantec,course851555,introToVue,SAFE-Dojo,MonthlyPayment,briansiervi.github.io" />
+</a>
 
 # Projects
 :page_with_curl: Below are some projects that I developed during my studies or as a freelancer.
