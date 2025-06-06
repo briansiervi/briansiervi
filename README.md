@@ -20,7 +20,8 @@
 
 ## Java  
   - Studies
-    1. Spring Batch: [Repository](https://github.com/briansiervi/spring-batch) | Tecnologies: Spring Boot, Spring Batch, Docker, Mysql
+    1. Design Patterns (work in progress): [Repository](https://github.com/briansiervi/design-patterns) | Tecnologies: Spring Boot
+    2. Spring Batch: [Repository](https://github.com/briansiervi/spring-batch) | Tecnologies: Spring Batch, Docker, Mysql
 
 ## React
   - Studies
