@@ -1,26 +1,32 @@
 # Presentation
 
 - 👋 Hi, I’m @briansiervi.
-- 👀 I'm already full stack in C#, but I'm looking to improve my JavaScript skills to also create websites in that language, using React.js and Typescript.
-- 🌱 I am a technical lead during business hours and outside of business hours I improve my knowledge at RocketSeat [RocketSeat](https://www.rocketseat.com.br/).
+- 👀 I'm full stack in C#, but I'm looking to improve my JavaScript skills to also create websites in that language, using Angular and Typescript.
+- 🌱 I am a technical lead during business hours and outside of business hours I improve my knowledge at RocketSeat [RocketSeat](https://www.rocketseat.com.br/) and [Alura](https://www.alura.com.br/).
 - :mortar_board: I have a degree in computer science from the Federal University of Juiz de Fora (UFJF) and a postgraduate degree in business management from the University of São Paulo (USP).
 - :house_with_garden: I live in São Paulo (Brazil 🇧🇷).
 - 📫 If you are curious to know me, you can find me on [Linkedin](https://www.linkedin.com/in/briansiervi/).
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briansiervi&layout=compact&langs_count=10&card_width=320&theme=tokyonight&exclude_repo=rest-api-sections,Dantec,course851555,introToVue,SAFE-Dojo,MonthlyPayment,briansiervi.github.io" />
 </a>
+-->
 
 # Projects
 :page_with_curl: Below are some projects that I developed during my studies or as a freelancer.
 
+## Angular
+  - Studies
+    1. Aplicações escaláveis com Angular (work in progress): [Repository](https://github.com/briansiervi/alura-jornada-milhas) | Tecnologies: Angular, Angular Material, SCSS
+
 ## Devops
   - Studies
-    1. Terraform and AWS (work in progress): [Repository](https://github.com/briansiervi/devops01) | Tecnologies: Terraform, Docker compose, Localstack, AWS
+    1. Terraform and AWS: [Repository](https://github.com/briansiervi/devops01) | Tecnologies: Terraform, Docker compose, Localstack, AWS
 
 ## Java  
   - Studies
-    1. Design Patterns (work in progress): [Repository](https://github.com/briansiervi/design-patterns) | Tecnologies: Spring Boot
+    1. Design Patterns: [Repository](https://github.com/briansiervi/design-patterns) | Tecnologies: Spring Boot
     2. Spring Batch: [Repository](https://github.com/briansiervi/spring-batch) | Tecnologies: Spring Batch, Docker, Mysql
 
 ## React
