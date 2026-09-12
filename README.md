@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @briansiervi.
 - 👀 I'm full stack in C#, but I'm looking to improve my JavaScript skills to also create websites in that language, using Angular and Typescript.
-- 🌱 I am a technical lead during business hours and outside of business hours I improve my knowledge at RocketSeat [RocketSeat](https://www.rocketseat.com.br/) and [Alura](https://www.alura.com.br/).
+- 🌱 I am a technical lead during business hours and outside of business hours I improve my knowledge at [RocketSeat](https://www.rocketseat.com.br/), [Alura](https://www.alura.com.br/) and [DIO](https://web.dio.me).
 - :mortar_board: I have a degree in computer science from the Federal University of Juiz de Fora (UFJF) and a postgraduate degree in business management from the University of São Paulo (USP).
 - :house_with_garden: I live in São Paulo (Brazil 🇧🇷).
 - 📫 If you are curious to know me, you can find me on [Linkedin](https://www.linkedin.com/in/briansiervi/).
@@ -18,7 +18,7 @@
 
 ## Angular
   - Studies
-    1. Aplicações escaláveis com Angular (paused): [Repository](https://github.com/briansiervi/alura-jornada-milhas) | Tecnologies: Angular, Angular Material, SCSS
+    1. Aplicações escaláveis com Angular: [Repository](https://github.com/briansiervi/alura-jornada-milhas) | Tecnologies: Angular, Angular Material, SCSS
 
 ## Devops
   - Studies
