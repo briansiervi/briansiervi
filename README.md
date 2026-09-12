@@ -18,7 +18,7 @@
 
 ## IA
   - Studies
-    1. NotebookLm: [Repository](https://github.com/briansiervi/java-arquitetura-notebooklm) | Tecnologies: IA, Java, Spring Boot 4, Open Telemetry, Dynatrace
+    1. NotebookLm: [Repository](https://github.com/briansiervi/java-arquitetura-notebooklm) | Tecnologies: IA, Java, Spring Boot 4, Arquitetura Hexagonal, Open Telemetry, Dynatrace
 ## Angular
   - Studies
     1. Aplicações escaláveis com Angular: [Repository](https://github.com/briansiervi/alura-jornada-milhas) | Tecnologies: Angular, Angular Material, SCSS
