@@ -16,6 +16,9 @@
 # Projects
 :page_with_curl: Below are some projects that I developed during my studies or as a freelancer.
 
+## IA
+  - Studies
+    1. NotebookLm: [Repository](https://github.com/briansiervi/java-arquitetura-notebooklm) | Tecnologies: IA, Java, Spring Boot 4, Open Telemetry, Dynatrace
 ## Angular
   - Studies
     1. Aplicações escaláveis com Angular: [Repository](https://github.com/briansiervi/alura-jornada-milhas) | Tecnologies: Angular, Angular Material, SCSS
